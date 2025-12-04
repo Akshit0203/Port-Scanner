@@ -46,7 +46,7 @@ Scan completed!
 ```
 
 ### 🧠 How it Works
-Creates one thread per port to increase speed
-Detects successful connections (result == 0)
-Prints open ports to the terminal
+- Creates one thread per port to increase speed
+- Detects successful connections (result == 0)
+- Prints open ports to the terminal
 
